@@ -104,12 +104,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhit10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhit's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhit10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=abhit10&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhit's GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhit10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhit10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
